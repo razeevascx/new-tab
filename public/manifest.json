@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Custom New Tab",
+  "description": "A beautiful custom new tab page with search, apps, and inspiration",
+  "version": "1.0.0",
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  },
+  "permissions": ["storage"],
+  "optional_permissions": ["bookmarks"],
+
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}

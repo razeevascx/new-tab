@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Outlook",
+    "url": "https://outlook.office.com",
+    "icon": "📧",
+    "color": "#0078D4"
+  },
+  {
+    "name": "OneDrive",
+    "url": "https://onedrive.com",
+    "icon": "☁️",
+    "color": "#0078D4"
+  },
+  {
+    "name": "Teams",
+    "url": "https://teams.microsoft.com",
+    "icon": "💬",
+    "color": "#6264A7"
+  },
+  {
+    "name": "Office",
+    "url": "https://office.com",
+    "icon": "📄",
+    "color": "#D83B01"
+  },
+  {
+    "name": "Word",
+    "url": "https://office.com/launch/word",
+    "icon": "📝",
+    "color": "#2B579A"
+  },
+  {
+    "name": "Excel",
+    "url": "https://office.com/launch/excel",
+    "icon": "📊",
+    "color": "#217346"
+  },
+  {
+    "name": "PowerPoint",
+    "url": "https://office.com/launch/powerpoint",
+    "icon": "📊",
+    "color": "#D24726"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com",
+    "icon": "💼",
+    "color": "#0077B5"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "icon": "🐙",
+    "color": "#181717"
+  }
+]
